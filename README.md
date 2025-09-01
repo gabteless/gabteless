@@ -12,9 +12,14 @@ I am a a System Analysis and Development student and currently my main focus is 
 <img align= "center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >
 <img align= "center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" >
 
+## Languages I speak:
+<img align= "center" alt="Brazil flag" height="30" width="30" src="flag-for-flag-brazil-svgrepo-com.svg" >
+<img align= "center" alt="USA flag" height="30" width="30" src="usa-svgrepo-com.svg" >
+
+
+
 ## How to reach me:
 
-<div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/gabriel-teles-950b8b327/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
   </a>
@@ -22,3 +27,5 @@ I am a a System Analysis and Development student and currently my main focus is 
     <img align="center" alt="Gmail" height="30" width="30" src="icons8-gmail.svg">
   </a>
 </div>
+
+

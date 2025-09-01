@@ -14,7 +14,7 @@ I am a a System Analysis and Development student and currently my main focus is 
 
 ## Languages I speak:
 <img align= "center" alt="Brazil flag" height="30" width="30" src="flag-for-flag-brazil-svgrepo-com.svg" >
-<img align= "center" alt="USA flag" height="30" width="30" src="usa-svgrepo-com.svg" >
+<img align= "center" alt="USA flag" height="30" width="30" src="united-states-flag-icon.svg" >
 
 
 

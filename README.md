@@ -10,12 +10,13 @@ I am a a System Analysis and Development student and currently my main focus is 
 <img align= "center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >
 <img align= "center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" >
 
-##How to reach me:
+## How to reach me:
+
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/gabriel-teles-950b8b327/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="mailto:gabrieltelescdev@gmail.com">
-    <img align="center" alt="Gmail" height="30" width="30" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">
+    <img align="center" alt="Gmail" height="30" width="30" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">
   </a>
 </div>

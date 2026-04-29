@@ -1,6 +1,6 @@
 
 ## Hey! I'm Gabriel Teles!
-I am a a System Analysis and Development student and currently my main focus is on the data area. But I'm always trying to expand my knowledge in IT.
+I am a college student trying to improve my skills
 
 <div style="display: inline_block">
 <br>

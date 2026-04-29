@@ -2,47 +2,26 @@
 I am a college student trying to improve my skills
 
 ## Technologies:
-<div style="display: inline_block">
-
-  <img align="center" alt="Python" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-
-  <img align="center" alt="SQL" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-
-  <img align="center" alt="JavaScript" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="HTML5" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS3" height="30" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30"/>
+</p>
 
 ## Languages I speak:
-<div style="display: inline_block">
-
-  <img align="center" alt="Brazil flag" height="30" width="30"
-  src="flag-for-flag-brazil-svgrepo-com.svg">
-
-  <img align="center" alt="USA flag" height="30" width="30"
-  src="united-states-flag-icon.svg">
-
-</div>
+<p>
+  <img src="flag-for-flag-brazil-svgrepo-com.svg" height="30"/>
+  <img src="united-states-flag-icon.svg" height="30"/>
+</p>
 
 ## How to reach me:
-<div style="display: inline_block">
-
-  <a href="https://www.linkedin.com/in/gabriel-teles-950b8b327/" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+<p>
+  <a href="https://www.linkedin.com/in/gabriel-teles-950b8b327/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
-
   <a href="mailto:gabrieltelescdev@gmail.com">
-    <img align="center" alt="Gmail" height="30" width="30"
-    src="icons8-gmail.svg">
+    <img src="icons8-gmail.svg" height="30"/>
   </a>
-
-</div>
+</p>

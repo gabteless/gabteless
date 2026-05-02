@@ -1,7 +1,7 @@
-## Hey! I'm Gabriel Teles!
-I am a college student trying to improve my skills
+## Hey! I'm Gabriel!
+I am a college student trying to learn more about programming
 
-## Technologies:
+## Skills:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30"/>
